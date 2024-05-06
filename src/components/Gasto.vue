@@ -64,6 +64,7 @@ const props = defineProps({
   display: flex;
   align-items: center;
   gap: 2rem;
+  cursor: pointer;
 }
 .icono {
   width: 5rem;
@@ -81,7 +82,6 @@ const props = defineProps({
   color: var(--gris-oscuro);
   font-size: 2.4rem;
   font-weight: 700;
-  cursor: pointer;
 }
 .fecha {
   color: var(--gris-oscuro);
