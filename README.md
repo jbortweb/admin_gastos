@@ -12,14 +12,16 @@ Para instalar y configurar el proyecto en tu entorno local, sigue estos pasos:
 
 1. **Clonar el repositorio**
 git clone https://github.com/jbortweb/admin_gastos.git
+
+2. **Acceder a la carpeta del proyecto**
 cd admin_gastos
 
 
-2. **Instalar dependencias**
+3. **Instalar dependencias**
 npm install
 
 
-3. **Ejecutar el proyecto para iniciar el servidor de desarrollo**
+4. **Ejecutar el proyecto para iniciar el servidor de desarrollo**
 npm run dev
 
 
